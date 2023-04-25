@@ -1,2 +1,4 @@
+Data Analysis with Pandas
+This repository contains code examples and tutorials for data analysis using the Pandas library in Python.
 # iPython_pandas
-The repository will show workings with ipyton, different data types such as txt, csv, excel, and jupyter notebook using pandas
+Will show workings with ipyton, different data types such as txt, csv, excel, and jupyter notebook using pandas
